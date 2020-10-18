@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Contact-Firebase-Sample/static/css/main.27a80fb5.chunk.css",
+    "main.js": "/Contact-Firebase-Sample/static/js/main.abf0ab50.chunk.js",
+    "main.js.map": "/Contact-Firebase-Sample/static/js/main.abf0ab50.chunk.js.map",
+    "runtime-main.js": "/Contact-Firebase-Sample/static/js/runtime-main.b682368b.js",
+    "runtime-main.js.map": "/Contact-Firebase-Sample/static/js/runtime-main.b682368b.js.map",
+    "static/js/2.e7e762e8.chunk.js": "/Contact-Firebase-Sample/static/js/2.e7e762e8.chunk.js",
+    "static/js/2.e7e762e8.chunk.js.map": "/Contact-Firebase-Sample/static/js/2.e7e762e8.chunk.js.map",
+    "index.html": "/Contact-Firebase-Sample/index.html",
+    "precache-manifest.69bfecda8a467aed289fc6c688ea8f35.js": "/Contact-Firebase-Sample/precache-manifest.69bfecda8a467aed289fc6c688ea8f35.js",
+    "service-worker.js": "/Contact-Firebase-Sample/service-worker.js",
+    "static/css/main.27a80fb5.chunk.css.map": "/Contact-Firebase-Sample/static/css/main.27a80fb5.chunk.css.map",
+    "static/js/2.e7e762e8.chunk.js.LICENSE.txt": "/Contact-Firebase-Sample/static/js/2.e7e762e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b682368b.js",
+    "static/js/2.e7e762e8.chunk.js",
+    "static/css/main.27a80fb5.chunk.css",
+    "static/js/main.abf0ab50.chunk.js"
+  ]
+}
